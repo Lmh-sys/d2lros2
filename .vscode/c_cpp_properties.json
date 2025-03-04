@@ -1,0 +1,20 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "/opt/ros/humble/include/**",
+                "/usr/include/**",
+                "/usr/local/include/**",
+                "${workspaceFolder}/chapt3/chapt3_ws/install/example_ros2_interfaces/include/**",
+                "${workspaceFolder}/chapt4/chapt4_ws/install/robot_control_interfaces/include/**",
+                "${workspaceFolder}/chapt4/chapt4_ws/src/example_action_rclcpp/include"
+            ],
+            "defines": [],
+            "compilerPath": "/usr/bin/gcc",
+            "intelliSenseMode": "linux-gcc-x64"
+        }
+    ],
+    "version": 4
+}
